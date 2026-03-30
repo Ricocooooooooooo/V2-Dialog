@@ -5,7 +5,7 @@
   "close_text": "Close",
   "join_text": "Join Now",
   "switch_text": "Don't show again",
-  "dialog_width_percent": 50,
+  "dialog_width_percent": 74,
   "switch_enabled": true,
   "switch_default_state": false
 }
